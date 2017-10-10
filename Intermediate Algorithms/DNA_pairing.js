@@ -24,4 +24,4 @@ function pairElement(str) {
     return mainArray;
   }
   
-  pairElement("GCG");
+  console.log(pairElement("GCG"));

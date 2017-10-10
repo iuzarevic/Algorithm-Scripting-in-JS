@@ -12,4 +12,4 @@ function convertToRoman(num) {
   return result;
 }
 
-convertToRoman(12);
+console.log(convertToRoman(12));
